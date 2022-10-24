@@ -171,7 +171,7 @@ function areaDelTriangulo(base, altura){
 
 function deEuroAdolar(euro){
   const precioEuro = 1.20;
-  var dolar = euro * 1.20;
+  var dolar = euro * precioEuro;
   return dolar;
 }
 
